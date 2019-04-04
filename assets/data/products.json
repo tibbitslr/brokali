@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "milk",
+    "_category": "milk",
+    "unit": "volume"
+  },
+  {
+    "_id": "mongo",
+    "_category": "fish_and_seafood",
+    "unit": "mass"
+  },
+  {
+    "_id": "melon",
+    "_category": "fish_and_seafood",
+    "unit": "mass"
+  },
+  {
+    "_id": "maize",
+    "_category": "fish_and_seafood",
+    "unit": "mass"
+  },
+  {
+    "_id": "mushroom",
+    "_category": "fish_and_seafood",
+    "unit": "mass"
+  },
+  {
+    "_id": "meatballs",
+    "_category": "fish_and_seafood",
+    "unit": "mutton"
+  },
+  {
+    "_id": "mutton",
+    "_category": "fish_and_seafood",
+    "unit": "mass"
+  },
+  {
+    "_id": "banana",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "beans",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "beefsteak",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "blackberry",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "bread and cheese",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "brown bread",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "cafe",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "shrimp",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "sugar",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "tomato",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "casserole",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "cherry",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "cup",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "garlic",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "ham",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "honey",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "knead",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "lobster",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "perch",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "pike",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "potatoes",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "sardine",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "spinach",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "toaster",
+    "_category": "other",
+    "unit": "mass"
+  },
+  {
+    "_id": "yeast",
+    "_category": "other",
+    "unit": "mass"
+  }
+]
