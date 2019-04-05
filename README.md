@@ -2,6 +2,8 @@
 
 BroKali helps with shopping in the store. Always tell you what to buy and in what quantity.
 
+https://play.google.com/store/apps/details?id=com.brokali
+
 ![frame1](https://raw.githubusercontent.com/kroppli/brokali/master/screenshots/Frame1.png)
 ![frame2](https://raw.githubusercontent.com/kroppli/brokali/master/screenshots/Frame2.png)
 ![frame3](https://raw.githubusercontent.com/kroppli/brokali/master/screenshots/Frame3.png)
